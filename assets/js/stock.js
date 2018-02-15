@@ -1,4 +1,4 @@
-var stocks = ["VXX","$UST10Y","SPY", "EEM", "IYR", "USO", "UNG", "SOXX", "XLU"];
+var stocks = ["VXX", "VIX", "VVIX", "$USD" ,"$UST10Y","SPY", "EEM", "IYR", "USO", "UNG", "SOXX", "XLU"];
 
 $(document).ready(function(){
     stocks.map(stock => {
